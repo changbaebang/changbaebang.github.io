@@ -4,7 +4,7 @@ title: About me
 subtitle: Software and Music are...
 ---
 
-My name is [Changbae](bangchangbae@gmail.com).
+My name is [Changbae](mailto:bangchangbae@gmail.com).
 I would like to create a better tomorrow.
 
 ### my Job
