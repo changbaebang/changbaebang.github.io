@@ -3,7 +3,7 @@ layout: post
 title:  "React Query 와 친해지기 -2- (쿼리 키)"
 date:   2022-08-02 12:00:00 +0900
 author: Changbae Bang
-tags: [react-query,  query-keys, invalidateQueries, troubleshooting]
+tags: [react-query,  query-keys, invalidateQueries, troubleshooting, not, working]
 ---
 
 mutation 후 데이터 갱신을 위해서 `invalidateQueries` 를 호출 했는데, 동작하지 않았다.
