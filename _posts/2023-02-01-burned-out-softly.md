@@ -3,7 +3,7 @@ layout: post
 title:  "열정은 항상 조용하게 식어 간다."
 date:   2023-02-01 01:00:00 +0900
 author: Changbae Bang
-tags: [burnedout, 열정끗, 검색, 화해, 와리가리]
+tags: [burnout, 열정끗, 검색, 화해, 와리가리]
 ---
 
 # 들어가면서
