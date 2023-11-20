@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "근 3년 가량의 나의 경력 회고"
-date:   2023-11-08 00:50:00 +0900
+date:   2023-11-21 00:50:00 +0900
 author: Changbae Bang
 tags: [이직, 퇴직, 하고싶은일,]
 ---
