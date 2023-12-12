@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "나의 회사의 첫 날들 1"
-date:   2023-12-13 00:30:00 +0900
+date:   2023-12-13 00:10:00 +0900
 author: Changbae Bang
 tags: [출근, 취업, 이직, 첫출근, ]
 ---
