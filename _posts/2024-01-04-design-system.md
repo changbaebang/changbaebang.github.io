@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "디자인 시스템의 함정"
-date:   2024-02-04 23:30:00 +0900
+date:   2024-01-04 23:30:00 +0900
 author: Changbae Bang
 tags: [FE, 개발, 효율, 디자인시스템 ]
 ---
