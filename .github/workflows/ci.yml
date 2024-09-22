@@ -8,8 +8,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: Build the site in the jekyll/builder container
         run: |
-          export JEKYLL_VERSION=4.0.0
+          export JEKYLL_VERSION=3.8
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future JEKYLL_LOG_LEVEL=info -t"
+          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future BUNDLE_FORCE_RUBY_PLATFORM=true"
