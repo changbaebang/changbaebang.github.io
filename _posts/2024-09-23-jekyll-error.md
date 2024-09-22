@@ -3,7 +3,7 @@ layout: post
 title:  "Jekyll 빌드가 안되서..."
 date:   2024-09-23 00:10:00 +0900
 author: Changbae Bang
-tags: [버전업, 에러확인, ]
+tags: [버전업, 에러확인, jekyll, build, ]
 ---
 
 # 들어가면서
@@ -50,7 +50,7 @@ Error: Process completed with exit code 5.
 # 결말
 4가 이러쿵 저러쿵 버전 올리고 맞추고 저쩌구 해서 해결이 되었음을 확인하며,  
 무의미한 숫자 올리기를 멈춘다.
-https://github.com/jekyll/jekyll/issues/7801#issuecomment-525609325
+[Segfault when running Jekyll 4 in Alpine](https://github.com/jekyll/jekyll/issues/7801#issuecomment-525609325)  
 흠 찝찝할 수 있지만 도전!
 
 ```
