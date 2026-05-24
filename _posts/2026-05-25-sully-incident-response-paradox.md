@@ -8,7 +8,7 @@ tags: [incident, operations, on-call, engineering, culture, retrospective]
 > 새벽에 영화를 보고 장애 채널이 떠올랐다.  
 > **살린 것은 판단이었는데, 나중에 재심받는 것은 그 판단**이었다.
 
-밤늦게 Clint Eastwood의 [*Sully*](https://en.wikipedia.org/wiki/Sully_(film)) (2016)를 봤다. 2009년 US Airways 1549편, 이륙 직후 새 떼에 엔진이 멈추고 허드슨 강에 비상 착수한 이야기.
+밤늦게 Clint Eastwood의 [*Sully*](https://en.wikipedia.org/wiki/Sully_(film)) (2016)를 봤다. 2009년 US Airways 1549편, 이륙 직후 새 떼에 엔진이 멈추고 허드슨 강에 **비상 착륙**한 이야기.
 
 영화 전체가 “영웅전”만은 아니다. **조종사가 208초 안에 내린 판단**과, 그 뒤 **NTSB가 시뮬레이터로 “공항 복귀도 가능하지 않았나?”를 재현**하는 장면이 맞선다.
 
@@ -31,7 +31,7 @@ tags: [incident, operations, on-call, engineering, culture, retrospective]
 
 - LaGuardia 복귀?
 - Teterboro?
-- 아니면 **강 위 착수**?
+- 아니면 **강 위 착륙**?
 
 그때 그는 **전체 로그·시뮬레이션·위원회의 질문**을 갖고 있지 않다. 새, 연료, 고도, 승객 — 불완전한 조각만으로 **손실을 최소화**하는 쪽을 고른다.
 
@@ -42,7 +42,7 @@ tags: [incident, operations, on-call, engineering, culture, retrospective]
 - “고객 영향 범위 불명”
 
 on-call이 서 있는 자리는 **정답을 아는 자리가 아니라, 손실을 줄이는 자리**다.  
-우리 회사처럼 장애 대응이 촘촘한 조직일수록, 이 208초 구간에 **템플릿·선포·역할·타임라인**이 붙어 있다. 그건 대부분 맞다. 사람이 흩어지지 않게 하니까.
+장애 대응이 촘촘한 조직일수록, 이 208초 구간에 **템플릿·선포·역할·타임라인**이 붙어 있다. 그건 대부분 맞다. 사람이 흩어지지 않게 하니까.
 
 ---
 
@@ -168,7 +168,7 @@ revert 남발, 실험적 완화 회피, “누군가 승인 후에”.
 ## 읽을 거리
 
 - [my-cursor — 장애 레이어와 `/cb:incident*`](https://changbaebang.github.io/2026-05-21-my-cursor-architecture-retro/)
-- [p99와 낮은 샘플링 — “바로 백엔드 장애”라고 단정하지 않기](https://changbaebang.github.io/2026-05-29-p99-with-low-sampling-playbook/)
+- [p99와 낮은 샘플링](https://changbaebang.github.io/2026-05-29-p99-with-low-sampling-playbook/)
 - [리뷰 스레드 운영 체크리스트](https://changbaebang.github.io/2026-05-21-review-thread-operating-checklist/) — 장애 후 커뮤니케이션과 같은 축
 
 *영화 줄거리·역사적 사건 요약이며, 특정 회사·특정 장애 사건을 지칭하지 않습니다.*
