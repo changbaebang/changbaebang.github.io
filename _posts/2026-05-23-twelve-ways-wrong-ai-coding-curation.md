@@ -42,7 +42,7 @@ agile/TDD 측정 비판과도 같은 결이라, “도구가 좋다/나쁘다”
 ## 왜 북마크했는가
 
 - “AI 도입 성과 보고”를 받을 때 **어디가 허술한지** 짚을 수 있는 체크리스트다.
-- [AI 스킬은 코드다 — 쓰면서 고쳐야 산다](https://changbaebang.github.io/2026-05-22-skill-is-code-iterate-it/) — 하네스·검증 루프
+- [AI 스킬은 코드다 — 쓰면서 고쳐야 산다](https://changbaebang.github.io/2026-05-21-skill-is-code-iterate-it/) — 하네스·검증 루프
 - 번역·해설을 붙이기보다, **원문 링크 하나로 팀에 넘기기**에 적합하다.
 
 ---
@@ -61,7 +61,7 @@ agile/TDD 측정 비판과도 같은 결이라, “도구가 좋다/나쁘다”
 ## 읽을 거리
 
 - **원문 (필수):** [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) — Greg Wilson, Third Bit
-- [AI 스킬은 코드다 — 쓰면서 고쳐야 산다](https://changbaebang.github.io/2026-05-22-skill-is-code-iterate-it/)
+- [AI 스킬은 코드다 — 쓰면서 고쳐야 산다](https://changbaebang.github.io/2026-05-21-skill-is-code-iterate-it/)
 - [리뷰 스레드 운영 체크리스트](https://changbaebang.github.io/2026-05-21-review-thread-operating-checklist/)
 
 *이 포스트는 원문의 번역·재게시가 아닙니다. 요약과 링크만 제공합니다.*
