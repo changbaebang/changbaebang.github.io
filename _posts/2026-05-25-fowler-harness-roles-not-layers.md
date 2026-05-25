@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harness engineering을 읽었을 때 — 계층·중앙·도구 의존은 왜 틀린가"
-date: 2026-05-25 18:00:00 +0900
+date: 2026-05-25 16:30:00 +0900
 permalink: /2026-05-25-fowler-harness-roles-not-layers/
 tags: [harness, harness-engineering, ai, coding-agent, martin-fowler, engineering, workflow, problem-first]
 ---
