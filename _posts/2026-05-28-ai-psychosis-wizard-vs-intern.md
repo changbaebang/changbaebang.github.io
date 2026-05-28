@@ -77,6 +77,7 @@ AI 어시스턴트도 이 방식으로 쓰면 오래 간다.
 ## 3) 두 영화 사이에서 정리한 실무 질문 5개
 
 무언가를 생성하기 전에, 혹은 생성 결과를 머지하기 전에 스스로 묻는다.
+여기서 말한 AI psychosis(과신·고립·검증 단절)는 [geohot 글](https://changbaebang.github.io/2026-05-26-geohot-slop-verification-not-agents/)에서 정리한 "출력 속도와 검증 속도의 불균형" 문제와 같은 축이다.
 
 1. 이 출력의 **성공 기준**은 무엇인가?
 2. 누가 봐도 같은 결론이 나오는 **증거**가 있나?
@@ -141,3 +142,4 @@ AI 어시스턴트도 같다.
 - [문제 퍼스트](https://changbaebang.github.io/2026-05-25-problem-first-not-tool-first/)
 - [주니어 첫 레버 · PR 3단락](https://changbaebang.github.io/2026-05-27-junior-first-leverage/)
 - [스레드 → 티켓 4줄](https://changbaebang.github.io/2026-05-28-thread-to-ticket/)
+- [비싼 실수는 AI가 아니라 검증 부재](https://changbaebang.github.io/2026-05-26-geohot-slop-verification-not-agents/)
