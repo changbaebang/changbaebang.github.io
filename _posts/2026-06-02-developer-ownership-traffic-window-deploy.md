@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "문구 하나, 도메인 여럿 — 끝난 작업을 어떻게 회고할 것인가"
-date: 2026-06-02 12:00:00 +0900
+date: 2026-06-02 16:05:00 +0900
 tags: [ownership, deploy, communication, risk, fe, retrospective]
 ---
 
