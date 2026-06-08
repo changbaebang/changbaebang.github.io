@@ -2,6 +2,7 @@
 layout: post
 title: "빨리 고쳤는데, 왜 위험했는지 — Mini Shai-Hulud와 npm 설치 경계"
 date: 2026-06-08 14:35:00 +0900
+permalink: /2026-06-07-npm-shai-hulud-install-boundary/
 tags: [security, npm, supply-chain, frontend, lockfile, registry, pnpm]
 ---
 
