@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebView와 UA — 채널보다 브라우저 스펙을 보는 쪽이 낫다"
-date: 2026-06-08 16:00:00 +0900
+date: 2026-06-08 13:36:00 +0900
 tags: [chrome, user-agent, webview, frontend, web-platform, client-hints]
 ---
 
