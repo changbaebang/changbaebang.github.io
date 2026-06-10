@@ -1,0 +1,26 @@
+---
+layout: page
+title: '글 목록'
+subtitle: 연도별 전체 아카이브
+---
+
+{% assign date_format = site.date_format | default: "%Y-%m-%d" %}
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+<p class="text-muted">홈은 최근 글 피드, 여기는 <strong>전체 {{ site.posts.size }}편</strong>을 연도별로 본다.</p>
+
+<div id="archive-list">
+{% for year in posts_by_year %}
+  <h2 id="year-{{ year.name }}" class="linked-section">{{ year.name }} <span class="text-muted">({{ year.items.size }})</span></h2>
+  <div class="post-list">
+    {% for post in year.items %}
+      <div class="tag-entry">
+        <a href="{{ post.url | relative_url }}">{{ post.title | strip_html }}</a>
+        <div class="entry-date">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
