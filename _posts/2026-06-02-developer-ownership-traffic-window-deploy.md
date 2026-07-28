@@ -191,7 +191,7 @@ BE 동료가 합류했습니다.
 이건 **성격 판단**이 아니라 **출력 형식**의 피드백입니다.  
 반영해도 제 편이 됩니다.
 
-Patterson et al. [*Crucial Conversations*](https://www.cruciallearning.com/crucial-conversations/)이 말하듯,  
+Patterson et al. [*Crucial Conversations*](https://cruciallearning.com/books/crucial-conversations-book/)이 말하듯,
 **사실·맥락·감정·행동**을 나누면, 답답함은 채팅에 남지 않고 **결정**으로 남습니다.
 
 ### 2) 잠시 들고 있다가 가볍게 다룰 것 — **맥락이 빠진 이야기**
@@ -258,9 +258,9 @@ PM을 비난하지 않아도, **기대가 어긋난 순간**은 있습니다.
 
 Google [*Site Reliability Engineering*](https://sre.google/sre-book/table-of-contents/)이 말하는 **변경 관리**도 같습니다.  
 용기가 아니라 **예측 가능성**.  
-Forsgren et al. [*Accelerate*](https://itrevolution.com/product/accelerate-book/)이 말하는 **관측 가능한 배포**도 같습니다.
+Forsgren et al. [*Accelerate*](https://itrevolution.com/product/accelerate/)이 말하는 **관측 가능한 배포**도 같습니다.
 
-Edmondson의 **psychological safety**([*The Fearless Organization*](https://amycedmondson.com/fearless-organization/))는  
+Edmondson의 **psychological safety**([*The Fearless Organization*](https://amycedmondson.com/books/))는
 「아무 말이나」가 아니라 **리스크를 부드럽게 올릴 수 있는가**입니다.  
 기록은 그 순간을 **팀의 기억**으로 고정해, 개인의 기억만 남지 않게 합니다.
 
@@ -335,8 +335,8 @@ stage 반영 완료했습니다.
 | 주제 | 자료 |
 |------|------|
 | 변경·배포·관측 | [Google, *Site Reliability Engineering*](https://sre.google/sre-book/table-of-contents/) |
-| 속도 vs 안정 | [Forsgren et al., *Accelerate*](https://itrevolution.com/product/accelerate-book/) / [DORA](https://dora.dev/) |
-| 고압 대화 | [Patterson et al., *Crucial Conversations*](https://www.cruciallearning.com/crucial-conversations/) |
-| 리스크·기록 | [Amy C. Edmondson, *The Fearless Organization*](https://amycedmondson.com/fearless-organization/) |
+| 속도 vs 안정 | [Forsgren et al., *Accelerate*](https://itrevolution.com/product/accelerate/) / [DORA](https://dora.dev/) |
+| 고압 대화 | [Patterson et al., *Crucial Conversations*](https://cruciallearning.com/books/crucial-conversations-book/) |
+| 리스크·기록 | [Amy C. Edmondson, *The Fearless Organization*](https://amycedmondson.com/books/) |
 | 운영 | [AWS Well-Architected — Operational Excellence](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html) |
-| 경계·역할 | [Camille Fournier, *The Manager’s Path*](https://www.oreilly.com/library/view/the-managers-path/9781491973887/) |
+| 경계·역할 | [Camille Fournier, *The Manager’s Path*](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) |

@@ -127,10 +127,10 @@ grep 한 번, **product / platform** 한 줄 — 그 정도가 지금의 **준�
 
 ## 참고
 
-### 앞글·데모
+### 앞글·공식 자료
 
 - [Chrome User-Agent 변경 안내 (앞글)](https://changbaebang.github.io/2026-06-01-chrome-user-agent-reduction-fe-notes/)
-- [Reduced UA demo](https://goo.gle/reduced-ua-demo) · [UA-CH demo](https://goo.gle/ua-ch-demo)
+- [Chrome for Developers — User-Agent Client Hints](https://developer.chrome.com/docs/privacy-security/user-agent-client-hints)
 
 ### UA reduction · Client Hints
 

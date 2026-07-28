@@ -6,7 +6,7 @@ author: Changbae Bang
 tags: [bfcache, 모바일, 브라우져]
 ---
 회사 블로그에 작성한 내용을 올려봅니다.
-https://teamdable.github.io/techblog/iframe-event-issue-with-bfcache
+[Dable 기술 블로그 원문](https://dabletech.oopy.io/e37ac7dd-a230-4eb2-be81-cdb32b02371d)
 
 안녕하세요. 방창배입니다.
 
@@ -55,9 +55,7 @@ https://teamdable.github.io/techblog/iframe-event-issue-with-bfcache
 
 자식 페이지에서 `link` *element* 를 제거하면 이슈가 재현되지 않습니다. 위 샘플에서 보는 것과 같이 `link` *element* 에서 style sheet를 로드하지 못해도 `iframe` 내에 클릭 이벤트가 발생하지 않습니다.
 
-[페이지 예제](/techblog/example/bfcach-bug/sample/index.html)
-
-쉽게 확인을 하기 위해 위 경로에 샘플을 올려놓았습니다.
+이 글과 함께 공개했던 실행 예제들은 현재 보관되어 있지 않아, 재현 조건과 핵심 코드를 본문에 남깁니다.
 
 
 ## 문제 처리 방안
@@ -145,10 +143,6 @@ let aElements = document.querySelectorAll("a");
 aElements.forEach((ele) => addLazyClick(ele));
 ```
 
-[전체 페이지](/techblog/example/bfcach-bug/triggering-event-solution/index.html)
-
-쉽게 확인을 하기 위해 위 경로에 샘플을 올려놓았습니다.
-
 아름답지는 않지만, 해결은 됩니다.
 
 자연스럽게 `click` 이벤트를 발생하여 페이지 이동을 하기 위해서 부자연스럽게 이벤트를 발생하는 코드가 추가 되었습니다.
@@ -166,7 +160,7 @@ aElements.forEach((ele) => addLazyClick(ele));
 잠시 기존에 겪고 있는 BFCache 문제로 돌아가 보도록 하겠습니다.
 상세한 내용은 아래 블로그들을 참고 할 수 있을 것 같습니다.
 * [[JavaScript] 브라우저에서 뒤로 가기 수행 시, 자바스크립트가 실행되지 않는 이유](https://programmingsummaries.tistory.com/380)
-* [IOS Safari history.back() 문제 : pageshow Event](http://kdsr2z0.github.io/safari_javascript_cache/)
+* [web.dev: Back/forward cache](https://web.dev/articles/bfcache)
 
 그리고 모질라에서는 아래와 같은 가이드를 제공하고 있습니다.
 
@@ -184,10 +178,6 @@ window.addEventListener("pageshow", () => {
   dable('renderWidget', 'dablewidget_GlGeZnox');
 });
 ```
-
-[전체 페이지](/techblog/example/bfcach-bug/defered-rendering-solution/index.html)
-
-쉽게 확인을 하기 위해 위 경로에 샘플을 올려놓았습니다.
 
 하지만 이번 경우에도 위젯 사용에 대한 방법을 변경해야 하는 상황이 있습니다. 이미 사용하고 있는 서비스들이 모두 수정을 해야 하는 번거로움이 발생하고 맙니다.
 
@@ -265,9 +255,6 @@ CommandQueue.prototype.rebuildHandler = function() {
 ```
 
 이러한 해결책을 통해서 사용자들의 개발 수정 없이 문제 사항을 제거해 보았습니다.
-
-[전체 페이지](/techblog/example/bfcach-bug/plugin-updae-solution/index.html)
-
 
 # 마치며
 이 문제는 사실상 iOS에서 BFCache의 동작의 버그라고 생각합니다. 그래서 더더욱 어떤 식으로 플랫폼을 구현한 것인지 많이 궁금합니다.

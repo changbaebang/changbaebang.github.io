@@ -7,12 +7,12 @@ tags: [junior, mentorship, pr, code-review, productivity, collaboration, ai]
 ---
 
 > "처음부터 잘 쓰는 사람은 없다.  
-> 대신 **항상 같은 순서로 설명하는 사람**은 빨리른다."
+> 대신 **항상 같은 순서로 설명하는 사람**은 빨리 는다."
 
 주니어에게 **AI 에이전트**를 가르칠 때, 나는 기능 목록부터 꺼내지 않는다.  
 먼저 권하는 건 딱 하나다. PR 본문 **3단락** — `의도 / 리뷰어가 볼 곳 / 롤백`.
 
-[횡단 PR](https://changbaebang.github.io/2026-05-18-reviewer-cross-app-pr/)이나 [생산성 레버](https://changbaebang.github.io/2026-05-16-productivity-leverage-points-ai-tools/) 글에서 이미 썼던 뼈대를, 이번엔 **한 주짜리 습관**으로만 줄였다.  
+[횡단 PR](https://changbaebang.github.io/2026-05-17-reviewer-cross-app-pr/)이나 [생산성 레버](https://changbaebang.github.io/2026-05-15-productivity-leverage-points-ai-tools/) 글에서 이미 썼던 뼈대를, 이번엔 **한 주짜리 습관**으로만 줄였다.
 요즘 GeekNews에서도 비슷한 말이 반복된다. diff보다 [의도를 먼저 맞추는 리뷰](https://news.hada.io/topic?id=27316), [리뷰 습관이 곧 에이전트 습관](https://news.hada.io/topic?id=23221) 같은 이야기다.
 
 ## TL;DR
@@ -136,8 +136,8 @@ shop·content·order가 한 PR에 섞이면, 슬랙에 **“어디를 같게 맞
 
 ### 내 글
 
-- [리뷰어가 먼저 읽는 횡단 PR](https://changbaebang.github.io/2026-05-18-reviewer-cross-app-pr/)
-- [생산성 레버 — 리뷰 가능성](https://changbaebang.github.io/2026-05-16-productivity-leverage-points-ai-tools/)
+- [리뷰어가 먼저 읽는 횡단 PR](https://changbaebang.github.io/2026-05-17-reviewer-cross-app-pr/)
+- [생산성 레버 — 리뷰 가능성](https://changbaebang.github.io/2026-05-15-productivity-leverage-points-ai-tools/)
 - [문제 퍼스트](https://changbaebang.github.io/2026-05-25-problem-first-not-tool-first/)
 
 ### GeekNews

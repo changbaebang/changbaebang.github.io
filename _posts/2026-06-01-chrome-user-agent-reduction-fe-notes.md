@@ -176,12 +176,12 @@ navigator.userAgentData?.getHighEntropyValues(['model', 'platformVersion'])
 
 ---
 
-## 직접 확인해 보기 (안내용 링크)
+## 확인 자료
 
 | 무엇을 보나 | 링크 |
 |-------------|------|
-| 내 브라우저의 reduced UA | https://goo.gle/reduced-ua-demo |
-| 내 브라우저의 UA-CH (헤더·JS) | https://goo.gle/ua-ch-demo |
+| UA 축소와 UA-CH 마이그레이션 | [web.dev — Migrate to User-Agent Client Hints](https://web.dev/articles/migrate-to-ua-ch?hl=ko) |
+| UA-CH 헤더·JavaScript API | [Chrome for Developers — User-Agent Client Hints](https://developer.chrome.com/docs/privacy-security/user-agent-client-hints) |
 | 로컬에서 reduced 강제 | Chrome 주소창 `chrome://flags/#reduce-user-agent` |
 
 ---
