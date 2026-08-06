@@ -2,6 +2,7 @@
 layout: post
 title: "침묵은 중립적인 기록이 아니었다"
 date: 2026-07-15 18:14:23 +0900
+excerpt: "장애를 복구하고도 사실과 역할을 기록하지 않으면 책임의 빈칸은 대응한 사람에게 남는다. 침묵이 어떻게 사실상의 동의와 책임으로 읽히는지 돌아본다."
 tags: [incident, retrospective, communication, ownership, engineering]
 ---
 

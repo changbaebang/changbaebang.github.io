@@ -2,6 +2,7 @@
 layout: post
 title: "프론트엔드는 왜 이렇게 복잡해졌을까: 도구 뒤의 상처를 따라가 보기"
 date: 2026-07-27 13:01:12 +0900
+excerpt: "프론트엔드의 복잡성은 유행이나 과잉 설계만으로 생기지 않았다. 브라우저 제약과 제품 요구에 대응하며 쌓인 도구들의 역사와 지금의 선택 기준을 살펴본다."
 tags: [frontend, web-development, react, nextjs, javascript, bundler, server-components, software-architecture]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "장애 기록은 저장으로 끝나지 않는다: 검색되고 전파되고 대응을 시작해야 한다"
 date: 2026-07-20 10:49:58 +0900
+excerpt: "장애 기록은 저장됐다는 사실만으로 다음 대응을 돕지 못한다. 증상과 완화 방법으로 검색되고, 검토·전파·후속 조치까지 이어지는 완료 조건을 정리한다."
 tags: [incident-response, postmortem, sre, reliability, knowledge-management, runbook, search, organizational-learning]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "GitHub Actions가 멈췄다: 모든 자동화 대신 중요한 배포만 이중화하기"
 date: 2026-07-20 10:44:18 +0900
+excerpt: "GitHub Actions 장애로 배포와 검증이 함께 멈췄다. 모든 워크플로를 복제하지 않고 고객 장애 복구와 운영 배포에 필요한 경로부터 이중화하는 기준을 정리한다."
 tags: [github-actions, ci-cd, deployment, devops, platform-engineering, reliability, disaster-recovery, business-continuity]
 ---
 

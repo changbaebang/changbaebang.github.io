@@ -2,6 +2,7 @@
 layout: post
 title: "문구 하나, 도메인 여럿 — 끝난 작업을 어떻게 회고할 것인가"
 date: 2026-06-02 16:05:00 +0900
+excerpt: "작은 문구 변경도 여러 도메인과 배포 창을 건너면 책임이 흐려진다. 끝난 작업을 기록할 때 결과뿐 아니라 판단과 소유권을 남기는 방법을 돌아본다."
 tags: [ownership, deploy, communication, risk, fe, retrospective]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "SSR은 클라이언트의 일을 없애지 않는다: 빨라지는 화면과 그렇지 않은 화면 구분하기"
 date: 2026-07-27 15:16:34 +0900
+excerpt: "SSR은 서버가 초기 HTML을 만들지만 브라우저의 DOM 구성·레이아웃·페인트까지 없애지는 않는다. 서버가 아는 입력과 기존 prefetch를 기준으로 SSR이 실제로 빨라지는 조건을 구분한다."
 tags: [ssr, nextjs, web-performance, hydration, webview, frontend, architecture]
 ---
 

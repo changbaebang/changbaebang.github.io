@@ -2,6 +2,7 @@
 layout: post
 title: "AI 도구를 바꾸는 비용을 낮추는 법"
 date: 2026-07-07 13:17:00 +0900
+excerpt: "AI 도구가 바뀌어도 작업 규칙까지 다시 만들 필요는 없다. 공통 규칙, 실행 절차, 비공개 설정을 분리해 Cursor에서 Codex로 옮긴 과정을 정리한다."
 tags: [cursor, codex, gpt, workflow, developer-experience, retrospective]
 ---
 

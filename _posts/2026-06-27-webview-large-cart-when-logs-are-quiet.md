@@ -3,6 +3,7 @@ layout: post
 title: "앱 WebView에서 장바구니가 많을 때 — 로그가 없으면 FE가 보는 것"
 date: 2026-06-27 17:56:00 +0900
 permalink: /2026-06-27-webview-large-cart-when-logs-are-quiet/
+excerpt: "장바구니가 많을 때만 Android WebView가 멈췄고 에러 로그는 비어 있었다. 프론트엔드가 메인 스레드·렌더·비교 실험으로 원인을 좁히는 순서를 정리한다."
 tags: [webview, cart, frontend, performance, android, debugging, commerce]
 series: [webview-capability]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "API를 당장 바꿀 수 없다면 호출 시점을 당겨본다: prefetch라는 합법적 꼼수"
 date: 2026-07-16 17:32:00 +0900
+excerpt: "프리페치는 느린 API를 빠르게 만들지 않지만 네트워크 대기를 화면 전환과 겹칠 수 있다. 캐시를 안전하게 재사용하기 위한 QueryClient, queryKey, staleTime 조건을 정리한다."
 tags: [react-query, prefetch, performance, api, frontend]
 ---
 

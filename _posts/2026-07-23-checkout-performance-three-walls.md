@@ -2,6 +2,7 @@
 layout: post
 title: "체크아웃 성능을 1초 아래로 줄이려다 만난 세 개의 벽"
 date: 2026-07-24 11:31:00 +0900
+excerpt: "체크아웃 화면을 1초 아래로 줄이려다 네트워크, 측정 분포, 브라우저 렌더링이라는 세 개의 벽을 만났다. 실패한 가설과 실제 병목을 구분한 성능 개선 과정을 정리한다."
 tags: [web-performance, checkout, rendering, reflow, android-webview, measurement, frontend, performance-testing]
 ---
 

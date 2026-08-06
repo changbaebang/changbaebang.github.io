@@ -2,6 +2,7 @@
 layout: post
 title: "로그인했는데 자동 리뷰는 멈췄다 — 에이전트 권한은 실행 환경의 일부다"
 date: 2026-08-06 12:48:00 +0900
+excerpt: "터미널에서는 로그인돼 있었지만 자동 리뷰는 GitHub에 접근하지 못했다. 계정 상태가 아니라 실제 실행 환경의 권한을 검증해야 했던 이유를 정리한다."
 tags: [ai-agent, automation, github, authentication, sandbox, code-review, operations]
 ---
 

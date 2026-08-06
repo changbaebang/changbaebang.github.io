@@ -2,6 +2,7 @@
 layout: post
 title: "레거시를 다음으로 옮기는 전환용 피처 플래그, 지우기 쉽게 설계하기"
 date: 2026-07-16 10:56:43 +0900
+excerpt: "전환용 피처 플래그의 목표는 분기를 오래 유지하는 것이 아니라 쉽게 삭제하는 것이다. 레거시와 신규 정책을 섞지 않고 호출부 한 곳에서 전환한 구조를 정리한다."
 tags: [feature-flag, legacy, react, architecture, retrospective]
 ---
 

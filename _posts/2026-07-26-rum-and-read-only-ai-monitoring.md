@@ -2,6 +2,7 @@
 layout: post
 title: "모니터링은 대시보드 하나가 아니었다: 숫자를 보는 RUM, 신호를 읽는 AI 스킬"
 date: 2026-07-27 10:54:08 +0900
+excerpt: "서버 대시보드만으로는 브라우저 메인 스레드의 개선과 사용자 화면의 이상을 설명하기 어려웠다. RUM 지표와 읽기 전용 AI 점검을 나눠 운영한 방법을 정리한다."
 tags: [monitoring, observability, datadog, rum, web-performance, android-webview, incident-response, ai-agent, codex, claude]
 ---
 

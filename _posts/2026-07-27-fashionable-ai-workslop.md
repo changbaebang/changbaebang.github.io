@@ -2,6 +2,7 @@
 layout: post
 title: "겉멋 AI: 매끈한 요청이 판단의 부재를 가릴 때"
 date: 2026-07-27 17:40:53 +0900
+excerpt: "AI가 매끈하게 만든 요청이라도 목표·대상·근거·책임에 대한 판단이 빠지면 협업 비용은 수신자에게 넘어간다. AI 사용 여부보다 총 협업 비용을 묻는다."
 tags: [ai, collaboration, workslop, productivity, code-review, engineering-culture]
 ---
 

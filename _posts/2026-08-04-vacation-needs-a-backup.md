@@ -2,6 +2,7 @@
 layout: post
 title: "확인은 촘촘한데 책임은 비어 있었다"
 date: 2026-08-05 08:49:10 +0900
+excerpt: "휴가를 존중한다는 말과 실제 업무가 휴가자를 계속 찾는 구조는 달랐다. 확인 형식은 촘촘했지만 요구사항·백업·최종 책임은 비어 있던 상황을 돌아봤다."
 tags: [retrospective, work, vacation, collaboration, ownership]
 ---
 

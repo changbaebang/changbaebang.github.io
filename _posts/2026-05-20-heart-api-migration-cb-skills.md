@@ -2,6 +2,7 @@
 layout: post
 title: "PR은 쪼개고, 규칙은 ~/.cursor에 — 레거시 API 에픽과 Cursor 스킬"
 date: 2026-05-20 15:00:00 +0900
+excerpt: "레거시 API를 한 번에 바꾸지 않고 에픽 브랜치와 하위 PR로 나눴다. 반복되는 리뷰·배포 규칙을 개인 스킬로 고정해 작업 전환 비용을 줄인 과정을 정리한다."
 tags: [cursor, monorepo, api-migration, developer-tools, slack, jekyll]
 ---
 

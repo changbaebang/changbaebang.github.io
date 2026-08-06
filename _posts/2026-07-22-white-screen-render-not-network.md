@@ -2,6 +2,7 @@
 layout: post
 title: "흰 화면은 네트워크가 아니라 렌더였다: 하던 성능 작업을 접고 방향을 바꾼 기록"
 date: 2026-07-23 14:37:28 +0900
+excerpt: "네트워크가 느리다고 가정해 prefetch를 준비했지만 영상 비교에서는 흰 화면 시간이 거의 같았다. 잘못 잡은 가설을 접고 렌더링과 CPU 비용으로 방향을 바꾼 기록이다."
 tags: [web-performance, measurement, rendering, reflow, frontend, android-webview, performance-testing, retrospective]
 ---
 

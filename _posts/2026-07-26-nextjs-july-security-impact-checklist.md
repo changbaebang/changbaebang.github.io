@@ -2,6 +2,7 @@
 layout: post
 title: "Next.js 보안 패치, 버전만 올리고 끝내지 않기"
 date: 2026-07-27 14:21:52 +0900
+excerpt: "Next.js 보안 릴리스는 버전만 올리고 끝낼 일이 아니다. 먼저 패치한 뒤 Server Actions, 라우팅, 이미지 최적화, 서버 캐시의 노출 표면을 확인하는 절차를 정리한다."
 categories: [Frontend, Security]
 tags: [Next.js, Security, Server Actions, App Router]
 ---

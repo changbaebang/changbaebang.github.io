@@ -2,6 +2,7 @@
 layout: post
 title: "모든 VOC를 직접 읽지 않고도 놓치지 않는 법: Slack과 Amplitude로 만든 예외 기반 모니터링"
 date: 2026-07-28 14:04:31 +0900
+excerpt: "여러 VOC 채널을 매일 직접 읽는 대신 AI로 중복과 잡음을 줄이고 제품 행동 데이터로 신호를 검증했다. 집중력을 지키면서 실제 이상에만 개입하는 흐름을 정리한다."
 tags: [voc, slack, amplitude, monitoring, observability, incident-response, product-analytics, automation, ai-agent, focus]
 ---
 

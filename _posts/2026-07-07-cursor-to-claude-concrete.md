@@ -2,6 +2,7 @@
 layout: post
 title: "AI 도구를 바꾸는 비용을 낮추는 법 (2) — Cursor에서 Claude로, 구체 사례"
 date: 2026-07-08 09:40:00 +0900
+excerpt: "Cursor의 스킬과 MCP 설정을 Claude Code로 옮기며 포맷, 전송 방식, 중복 설정의 차이를 확인했다. 실제 전환에서 그대로 가져갈 것과 다시 판단할 것을 나눈다."
 tags: [cursor, claude, claude-code, mcp, skills, workflow, developer-experience, retrospective]
 ---
 

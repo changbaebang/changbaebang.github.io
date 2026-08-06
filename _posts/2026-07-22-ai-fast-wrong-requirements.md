@@ -2,6 +2,7 @@
 layout: post
 title: "잘못 이해한 요구도 AI는 빠르게 구현한다"
 date: 2026-07-22 20:05:52 +0900
+excerpt: "AI는 명확한 요구뿐 아니라 잘못 이해한 요구도 빠르게 구현한다. 화면의 증상과 실제 계약을 구분하지 못해 생긴 재작업을 통해 구현 전 확인할 질문을 정리한다."
 tags: [ai, ai-coding, requirements, communication, frontend, retrospective, webview]
 ---
 

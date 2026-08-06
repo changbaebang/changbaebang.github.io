@@ -2,6 +2,7 @@
 layout: post
 title: "같은 정책, 다른 API: 화면마다 답이 달라지는 데이터 일관성 문제"
 date: 2026-07-22 08:25:00 +0900
+excerpt: "같은 사용자 정책을 여러 API가 서로 다른 값과 시점으로 제공하면 화면마다 답이 달라진다. 기준 원천과 정책 소유권 없이 프론트엔드가 한쪽을 고를 때 생기는 문제를 살펴본다."
 tags: [api, data-consistency, frontend, distributed-systems, contract-testing, qa, single-source-of-truth]
 ---
 

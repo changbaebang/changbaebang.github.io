@@ -3,6 +3,7 @@ layout: post
 title: "이상한 얇은 훅 만들지 말고, 그냥 useEffect 쓰자"
 date: 2026-07-03 16:25:00 +0900
 permalink: /2026-07-03-thin-hook-useeffect-instead/
+excerpt: "값을 더하지 않는 얇은 커스텀 훅은 추상화보다 간접 참조에 가깝다. postMessage 브리지 사례로 useEffect를 직접 쓰는 편이 더 읽기 쉬운 이유를 살펴본다."
 tags: [refactoring, clean-code, react, hooks, abstraction]
 ---
 

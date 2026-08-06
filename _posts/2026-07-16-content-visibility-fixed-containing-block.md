@@ -2,6 +2,7 @@
 layout: post
 title: "content-visibility: auto를 적용했더니 position: fixed가 고정되지 않았다"
 date: 2026-07-16 17:31:00 +0900
+excerpt: "content-visibility: auto를 적용하자 fixed 요소가 뷰포트에 고정되지 않았다. containment가 새로운 containing block을 만드는 원인과 적용 경계를 좁힌 해결책을 정리한다."
 tags: [css, content-visibility, position-fixed, performance, frontend]
 ---
 

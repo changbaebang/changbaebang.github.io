@@ -2,6 +2,7 @@
 layout: post
 title: "Feature Flag 장애가 흰 화면을 만들 때: return null 대신 실패 정책 설계하기"
 date: 2026-07-22 08:20:00 +0900
+excerpt: "Feature Flag 조회 실패를 비활성 상태와 똑같이 처리하자 핵심 화면이 흰 페이지가 됐다. 로딩·실패·값 없음·비활성을 나누고 복구 가능한 화면을 남기는 실패 정책을 설계한다."
 tags: [feature-flag, frontend, reliability, graceful-degradation, react, sentry, observability, incident-response]
 ---
 

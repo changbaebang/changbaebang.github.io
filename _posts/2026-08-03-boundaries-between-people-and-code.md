@@ -2,6 +2,7 @@
 layout: post
 title: "요즘은 경계를 정리하고 있다"
 date: 2026-08-03 17:21:00 +0900
+excerpt: "운영 인수인계와 모노레포 의존성 정리는 같은 질문으로 모였다. 사람과 코드가 꼭 필요한 정보만 알도록 책임과 지식의 경계를 다시 그린 기록이다."
 tags: [retrospective, architecture, dependency, refactoring, collaboration, ai]
 ---
 

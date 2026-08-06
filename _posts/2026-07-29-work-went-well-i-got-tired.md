@@ -2,6 +2,7 @@
 layout: post
 title: "오랜만의 근황, 잘 처리했고 조금 지쳤다"
 date: 2026-07-30 11:44:56 +0900
+excerpt: "맥락 없는 일을 복원하고 여러 문제를 해결했지만 잘 처리했다는 결과 뒤에는 피로가 남았다. AI로 더 많이 할 수 있게 된 시기에 무엇을 맡지 않을지도 돌아본다."
 tags: [retrospective, work, ai, career, life]
 ---
 

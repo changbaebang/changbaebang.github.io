@@ -2,6 +2,7 @@
 layout: post
 title: "얇은 훅은 혼자 오지 않는다: 훅이 쌓이고 엮일 때"
 date: 2026-07-16 11:03:55 +0900
+excerpt: "얇은 훅 하나보다 그것들이 탑을 쌓을 때 생기는 탐색 비용이 더 크다. 각 계층이 어떤 계약을 제공하는지 묻고 접어도 되는 추상화를 구분한다."
 tags: [react, hooks, abstraction, refactoring, state-management]
 ---
 

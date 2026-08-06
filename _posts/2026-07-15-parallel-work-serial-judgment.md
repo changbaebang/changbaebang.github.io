@@ -2,6 +2,7 @@
 layout: post
 title: "동시에 처리한다는 것: AI 에이전트와 작업 규칙으로 병렬 개발하기"
 date: 2026-07-16 14:46:49 +0900
+excerpt: "기능 개발, 성능 실험, 코드 리뷰를 여러 에이전트와 작업 폴더에서 병렬로 진행했다. 작업은 동시에 흐르게 하되 판단은 한 사람의 규칙을 통과하게 만든 방법을 정리한다."
 tags: [ai, agent, workflow, code-review, git-worktree, productivity]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "책임이 둥둥 뜨면 버그가 된다"
 date: 2026-08-05 14:38:23 +0900
+excerpt: "위임은 담당자 이름만 바꾸는 일이 아니다. 사람 사이의 책임과 프론트엔드 라우팅 버그에서 공통으로 발견한 판단 기준과 종료 조건의 중요성을 정리한다."
 tags: [leadership, delegation, responsibility, frontend, retrospective]
 ---
 

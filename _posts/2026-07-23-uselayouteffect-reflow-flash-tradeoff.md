@@ -2,6 +2,7 @@
 layout: post
 title: "useLayoutEffect는 '더 안전한 useEffect'가 아니다: reflow와 flash의 맞교환"
 date: 2026-07-24 10:30:00 +0900
+excerpt: "첫 페인트 전 DOM 크기를 읽어 깜빡임을 막았지만 강제 동기 reflow가 렌더링을 늦췄다. useLayoutEffect와 useEffect 사이에서 reflow와 flash를 어떻게 비교할지 정리한다."
 tags: [react, useLayoutEffect, useEffect, rendering, reflow, web-performance, frontend]
 ---
 

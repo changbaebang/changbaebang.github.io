@@ -2,6 +2,7 @@
 layout: post
 title: "평균이 빨라져도 성능 개선이 아닐 수 있다: 캐시와 이봉 분포 읽기"
 date: 2026-07-22 08:30:00 +0900
+excerpt: "평균은 빨라졌지만 측정값은 빠른 실행과 느린 실행 두 무리로 갈렸다. 코드 효과를 단정하기 전에 캐시·연결 재사용·실험 조건과 원본 분포를 읽는 방법을 정리한다."
 tags: [web-performance, measurement, cache, percentile, statistics, frontend, observability, performance-testing]
 ---
 
