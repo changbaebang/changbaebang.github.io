@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "그럴듯한 설명이 측정을 대신할 때"
-date: 2026-08-13 18:00:00 +0900
+date: 2026-08-13 16:27:03 +0900
 excerpt: "버그 제보가 개발자에게 도착했을 때 원인은 사라지고 해법만 남아 있었다. 나도 AI도 그 해법부터 구현했다. 방향을 되돌린 건 논증이 아니라 브라우저를 직접 몰아서 잰 숫자였다."
 tags: [debugging, collaboration, ai, agents, frontend, measurement, playwright]
 ---
