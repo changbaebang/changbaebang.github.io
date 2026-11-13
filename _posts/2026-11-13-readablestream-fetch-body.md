@@ -329,7 +329,7 @@ for await (const event of streamEvents('/api/chat', { input }, { signal })) {
 }
 ```
 
-`streamEvents` 안에서는 `getReader()`로 읽고, 버퍼를 구분자로 자르고, 끝 표시에서 빠져나오고, `finally`에서 `cancel()`한다. 쓰는 쪽은 스트림을 모르고 이벤트만 받는다. `ReadableStream`을 바로 `for await`로 돌 수도 있지만 브라우저 지원이 고르지 않고, 끝 표시 없는 종료를 구분하려면 `done`을 직접 봐야 해서 이렇게 감쌌다.
+`streamEvents` 안에서는 `getReader()`로 읽고, 버퍼를 구분자로 자르고, 끝 표시에서 빠져나오고, `finally`에서 `cancel()`한다. 쓰는 쪽은 스트림을 모르고 이벤트만 받는다. `ReadableStream`은 바로 `for await`로 돌 수도 있다. 나중에 Playwright의 Chromium, Firefox, WebKit에서 직접 확인해 보니 세 엔진 모두 됐다(이 글을 처음 올릴 때는 지원이 고르지 않다고 썼는데, 확인하지 않고 쓴 말이었다). 그래도 이렇게 감싼 것은 끝 표시 없는 종료를 구분하려고 `done`을 코드에서 직접 보는 쪽이 분명해서다. 이런 래퍼를 왜 `async function*`로 쓰는지는 [이 글](https://changbaebang.github.io/2026-11-13-why-async-generator/)에서 다룬다.
 
 브라우저에서 특히 볼 것은 두 가지다.
 
