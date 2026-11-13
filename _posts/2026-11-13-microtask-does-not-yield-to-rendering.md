@@ -198,7 +198,7 @@ async function processAll(items: Item[]) {
 | `process.nextTick` (Node.js) | nextTick 큐 | 아니다. 마이크로태스크보다 먼저 비워진다 |
 | `setImmediate` (Node.js) | 이벤트 루프의 check 단계 | 그렇다. I/O 콜백 다음에 실행된다 |
 
-`function*`는 이 표에 없다. 제너레이터는 큐와 무관하게 동기로 멈췄다 이어 가는 도구라서, 그 자체로는 양보를 만들지 않는다. 다만 `yield` 지점마다 위의 양보 방법과 결합하면 긴 작업을 쪼개는 데 쓸 수 있다. 이 이야기는 다음 글에서 한다.
+`function*`는 이 표에 없다. 제너레이터는 큐와 무관하게 동기로 멈췄다 이어 가는 도구라서, 그 자체로는 양보를 만들지 않는다. 다만 `yield` 지점마다 위의 양보 방법과 결합하면 긴 작업을 쪼개는 데 쓸 수 있다. 이 이야기는 [다음 글](https://changbaebang.github.io/2026-11-13-why-async-generator/)에서 한다.
 
 ## 다음에 성능이 걱정될 때 먼저 볼 것
 
